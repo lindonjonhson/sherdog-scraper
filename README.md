@@ -8,3 +8,5 @@ Bellator is one of the largest MMA organizations in the world but since it does 
 With that in mind, I created this script that will scrape a fighter profile and retrieve all the important information from it and if you need it, export it as a CSV file.
 
 Feel free to use it!
+
+**Obs:** Depending on the fighter profile, you might need to make a feel changes to the code.
